@@ -33,6 +33,7 @@ public class RealDatabaseTest {
 	private static final String DB_USER = "sa";
 	private static final String DB_PASSWORD = "";
 
+	// hallo 
 	private RealDatabase db;
 	private IDatabaseTester databaseTester;
 
